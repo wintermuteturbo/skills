@@ -1,0 +1,22 @@
+---
+title: "Parts: <the finding, in one sentence>"
+config:
+  layout: elk
+  look: classic
+  theme: base
+  themeVariables:
+    fontSize: "14px"
+    primaryColor: "#ffffff"
+    primaryTextColor: "#1f2328"
+    primaryBorderColor: "#8c959f"
+    lineColor: "#6e7781"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f6f8fa"
+    clusterBorder: "#d0d7de"
+    titleColor: "#1f2328"
+  flowchart:
+    curve: linear
+    nodeSpacing: 36
+    rankSpacing: 96
+    padding: 14
+---

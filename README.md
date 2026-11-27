@@ -19,10 +19,10 @@ With [skilletor](https://skilletor.bartoldi.xyz), for every agent at once, at us
 skilletor add -g wintermuteturbo/skills
 ```
 
-skilletor reads this private repository with your own git access (SSH keys or a credential helper) and stores no credentials. `skilletor update -g` shows what changed before moving to it.
+`skilletor update -g` shows what changed before moving to it.
 
 To version a skill on its own, tag it as `<name>@<version>`, for example `git tag docs@0.1.0`.
 
 ## Licence
 
-Not open source yet: all rights reserved until a licence is added.
+Each skill carries its own licence in its folder's `LICENSE` file and its `license` frontmatter. `diagrams` and `reader-first-docs` are MIT OR Apache-2.0, at your option.
