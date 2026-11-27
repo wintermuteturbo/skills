@@ -25,4 +25,6 @@ To version a skill on its own, tag it as `<name>@<version>`, for example `git ta
 
 ## Licence
 
-Each skill carries its own licence in its folder's `LICENSE` file and its `license` frontmatter. `diagrams` and `reader-first-docs` are MIT OR Apache-2.0, at your option.
+Each skill carries its own licence in its folder's `LICENSE` file and its `license` frontmatter. `diagrams`, `reader-first-docs` and `skilletor` are MIT OR Apache-2.0, at your option.
+
+`skills/skilletor` is a copy of the skill that ships with skilletor and teaches agents to use it. Its source is skilletor's own repository, so change it there; each copy here is tagged `skilletor@<version>` after the skilletor release it describes.
